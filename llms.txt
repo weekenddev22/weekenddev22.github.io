@@ -1,0 +1,14 @@
+# WeekendDev22
+
+> WeekendDev22 is a personal web-development portfolio and blog featuring web projects, experiments, and articles about browser-based experiences.
+
+Website: https://weekenddev22.github.io/
+
+## Main pages
+
+- [Home](https://weekenddev22.github.io/): Portfolio homepage and selected work.
+- [5 Browser Games Worth Playing When You Need a Break](https://weekenddev22.github.io/blog/best-browser-games.html): A short article about browser games including 2048, Chessroom, Tetris, Minesweeper, and Lichess.
+
+## Related project
+
+- [Chessroom](https://chessroom.online/): Browser-based chess project featured in the browser games article.
